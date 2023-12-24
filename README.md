@@ -1,10 +1,12 @@
 ## Introduction to Google Earth Engine Python API for ML based Classification
 
-[![GEE](https://imgur.com/DVgXrNi.png)](https://youtu.be/CKnHsVaCpBE)
+[![GEE](https://imgur.com/DVgXrNi.png)](https://youtu.be/bro3RKlTLZI)
 
-_Click the picture to see the full workshop on YouTube or click this _[LINK](https://youtu.be/CKnHsVaCpBE)_._
+_Click the picture to see the full workshop on YouTube or click this [LINK](https://youtu.be/bro3RKlTLZI)._
 
-This repository contains materials for the workshop on Google Earth Engine Python API for ML-based Classification.
+To open the notebook in Google Colab, click the `Open in Colab` button below. You can also download the notebook and run it locally on your machine.
+
+[![Open In Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/waleedgeo/gee_py_ml/blob/main/gee_py_ml.ipynb)
 
 Welcome to the most comprehensive workshop on using the Google Earth Engine Python API for machine learning-based classification! If you're interested in remote sensing, geospatial analysis, or machine learning applied to Earth observation data, this workshop is a must-watch.
 
@@ -21,10 +23,11 @@ Topics Covered:
 
 Don't forget to check out the workshop materials and code examples on my GitHub repository. The links to all materials and sources mentioned in the workshop are available below:
 
-- Github Project Repo: https://github.com/waleedgeo/gee_py_ml
-- My Webpage: https://waleedgeo.com/
-- My Publications: https://waleedgeo.com/publication/
-- Slides PDF: 
+- [YouTube Video](https://youtu.be/bro3RKlTLZI)
+- [Github Project Repo:](https://github.com/waleedgeo/gee_py_ml)
+- [My Webpage](https://waleedgeo.com/)
+- [My Publications](https://waleedgeo.com/publication/)
+- [Slides PDF](https://github.com/waleedgeo/gee_py_ml/blob/main/gee_workshop_slides.pdf)
 
 Resources For Learning GEE Python API:
 
@@ -34,14 +37,13 @@ Resources For Learning GEE Python API:
 - [Intro to Earth Engine Python API](https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api)
 
 
-### Check the full workshop on YouTube
+### _Check the full workshop on YouTube_
 
-[![GEE](https://img.youtube.com/vi/CKnHsVaCpBE/0.jpg)](https://www.youtube.com/watch?v=CKnHsVaCpBE)
+[![GEE](https://img.youtube.com/vi/bro3RKlTLZI/0.jpg)](https://www.youtube.com/watch?v=bro3RKlTLZI)
 
+
+_[see the workshop poster here](https://imgur.com/C6Z9CmI.png)_
 
 ---
 
 #GoogleEarthEngine #PythonAPI #MachineLearning #RemoteSensing #GeospatialAnalysis #GEE #geemap #google #geospatial #python #cloudcomputing #machinelearning #supervisedlearning #landuse #lulc #landuselandcover #waleedgeo #mirzawaleed #bigdata #tutorial #tutorials
-
-
-<img src="https://imgur.com/C6Z9CmI.png" alt="drawing" width="=100"/>
